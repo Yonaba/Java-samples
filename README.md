@@ -3,7 +3,7 @@ Java-samples
 
 This repository contains various code snippets written in [Java Programming Language](http://en.wikipedia.org/wiki/Java_%28programming_language%29).<br/>
 It contains a set of folders, each one containing one or more *.java* files. These snippets feature various topics : math, logic, etc. <br/>
-They were implemented for fun, while learning I was on the process of getting started with Java Programming.
+They were implemented for fun, while I was on the process of getting my feet wet with Java Programming.
 
 
 ## Compilers ##
